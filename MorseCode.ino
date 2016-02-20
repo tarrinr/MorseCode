@@ -1,5 +1,4 @@
 #include "translate.h"
-#include "translate.h"
 
 void setup()
 {
